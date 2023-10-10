@@ -36,7 +36,8 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-[UntitledEDM EXP 5.1.pdf](https://github.com/MURALI22008445/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/files/12852546/UntitledEDM.EXP.5.1.pdf)
+![EDM EXP 5 1](https://github.com/MURALI22008445/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/119643767/63b013ca-3717-45bf-bffe-8eb7b8c5adc8)
+
 
 
 
